@@ -42,26 +42,6 @@ add In your .xprofile xwallpaper --maximize ~/<directory where you downloaded th
 | MODKEY + m             | layout 3                |
 | MODKEY + g             | layout 4                |
 
-** Application controls
-
-| Keybinding       | Action                                                                       |
-|------------------+------------------------------------------------------------------------------|
-| MODKEY + ALT + b | open Brave browser                                                           |
-| MODKEY + ALT + s | tabbed -r 2 surf -pe x '.surf/html/homepage.html'                            |
-| MODKEY + ALT + m | open [mailspring](https://github.com/Foundry376/Mailspring)                  |
-| MODKEY + ALT + f | open [pcmanfm (PaCMANFileManager)](https://wiki.archlinux.org/title/PCManFM) |
-
-** Doom emacs
-
-| Keybinding   | Action                                                 |
-|--------------+--------------------------------------------------------|
-| CTRL + e + e | emacsclient -c -a 'emacs'`                            |
-| CTRL + e + d | emacsclient -c -a 'emacs' --eval '(dired nil)'        |
-| CTRL + e + m | emacsclient -c -a 'emacs' --eval '(mu4e)'             |
-| CTRL + e + b | emacsclient -c -a 'emacs' --eval '(ibuffer)'          |
-| CTRL + e + n | emacsclient -c -a 'emacs' --eval '(elfeed)'           |
-| CTRL + e + s | emacsclient -c -a 'emacs' --eval '(eshell)'           |
-| CTRL + e + v | emacsclient -c -a 'emacs' --eval '(+vterm/here nil)'  |
 
   
 # Installation 
