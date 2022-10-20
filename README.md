@@ -26,7 +26,8 @@ add In your .xprofile xwallpaper --maximize ~/<directory where you downloaded th
 | MODKEY + .              | focusmon +1 (switches focus next monitors)                   |
 | MODKEY + ,              | focusmon -1 (switches focus to prev monitors)                |
 
-  ** Layout controls
+
+ # Layout controls
 
 | Keybinding             | Action                  |
 |------------------------+-------------------------|
