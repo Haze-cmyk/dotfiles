@@ -54,3 +54,7 @@ add In your .xprofile xwallpaper --maximize ~/<directory where you downloaded th
   mv .dwm ~
   mv .xinitrc ~
   
+# start
+  
+  To Start DWM type startx
+  
