@@ -49,3 +49,7 @@ add In your .xprofile xwallpaper --maximize ~/<directory where you downloaded th
   
   run ./install.sh
   
+# Config
+
+  mv .dwm ~
+  
