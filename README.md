@@ -52,4 +52,5 @@ add In your .xprofile xwallpaper --maximize ~/<directory where you downloaded th
 # Config
 
   mv .dwm ~
+  mv .xinitrc ~
   
