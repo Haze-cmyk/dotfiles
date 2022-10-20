@@ -5,7 +5,7 @@ The artic blah blah is the wallpaper
 add In your .xprofile xwallpaper --maximize ~/<directory where you downloaded this folder>/<image name>(make sure you rename it to something simple)
 # Keybinds
   
- ** Main keybindings
+# Main keybindings
 
 | Keybinding              | Action                                                       |
 |-------------------------+--------------------------------------------------------------|
