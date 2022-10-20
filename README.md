@@ -42,7 +42,8 @@ add In your .xprofile xwallpaper --maximize ~/<directory where you downloaded th
 | MODKEY + m             | layout 3                |
 | MODKEY + g             | layout 4                |
 
-
+# Note
+ View README.md in edit mode 
   
 # Installation 
   
